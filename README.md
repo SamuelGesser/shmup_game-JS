@@ -1,4 +1,4 @@
-# Recriando o jogo da cobrinha com JavaScript
+# Construindo jogo de naves com JavaScript
 
 Nesse projeto da Digital Innovation One, eu construi meu primeiro jogo de naves , seguindo passo a passo as instruções e dicas do professor.
 
